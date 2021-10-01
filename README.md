@@ -10,10 +10,10 @@ I am a **Full Stack software developer** and **Architect** from South Korea curr
 - 👨‍🔬 Fully qualified Architect in the UK.
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 👨‍💻 All of my projects are available at **(Personal Website currently in progress ...)**
-- 📄 View my **[GitHub Resume here]**(https://github.com/mhbae-dev/CV)
+- 📄 View my [**GitHub Resume here**](https://github.com/mhbae-dev/CV)
 - 💬 Reach out about **React, Ruby & job opportunities!**
 - 📫 How to reach me **mhbae93@gmail.com**
-- ☕ Coffee lover, turning it into code, **[you can buy me a coffee]**(https://buymeacoff.ee/mhbae)!
+- ☕ Coffee lover, turning it into code, [**you can buy me a coffee**](https://buymeacoff.ee/mhbae)!
 - ⚡ Fun fact: I love to travel and take photos.
 
 ### Languages and Tools that I use:
