@@ -1,6 +1,6 @@
 ### Hi there, I'm Myoung. Welcome to my GitHub profile.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=700&lines=Full+Stack+Software+Developer+with+a+focus+on+Front+End;ARB+Architect+and+designer+with+6%2B+years+experience;Constantly+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=800&lines=Full+Stack+Software+Developer+with+a+focus+on+Front+End;ARB+Architect+and+designer+with+6%2B+years+experience;Constantly+learning+new+things!)](https://git.io/typing-svg)
 
 ### Connect with me:
 
