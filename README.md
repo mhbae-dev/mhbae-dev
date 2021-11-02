@@ -29,5 +29,5 @@ I am a **Full Stack software developer** and **Architect** from South Korea curr
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2239](https://github.com/makersacademy/clmystery/pull/2239) in [makersacademy/clmystery](https://github.com/makersacademy/clmystery)
+1. 💪 Opened PR [#2087](https://github.com/makersacademy/takeaway-challenge/pull/2087) in [makersacademy/takeaway-challenge](https://github.com/makersacademy/takeaway-challenge)
 <!--END_SECTION:activity-->
