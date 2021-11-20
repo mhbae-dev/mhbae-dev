@@ -29,5 +29,5 @@ I am a **Full Stack software developer** and **Architect** from South Korea curr
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/mhbae-dev/makersbnb/pull/18) in [mhbae-dev/makersbnb](https://github.com/mhbae-dev/makersbnb)
+1. 💪 Opened PR [#22](https://github.com/mhbae-dev/makersbnb/pull/22) in [mhbae-dev/makersbnb](https://github.com/mhbae-dev/makersbnb)
 <!--END_SECTION:activity-->
