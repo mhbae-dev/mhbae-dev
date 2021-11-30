@@ -29,5 +29,5 @@ I am a **Full Stack software developer** and **Architect** from South Korea curr
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#184](https://github.com/makersacademy/bowling-challenge-ruby/pull/184) in [makersacademy/bowling-challenge-ruby](https://github.com/makersacademy/bowling-challenge-ruby)
+1. 🗣 Commented on [#1429](https://github.com/makersacademy/bowling-challenge/issues/1429) in [makersacademy/bowling-challenge](https://github.com/makersacademy/bowling-challenge)
 <!--END_SECTION:activity-->
