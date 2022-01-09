@@ -1,21 +1,20 @@
 ### Hi there, I'm Myoung. Welcome to my GitHub profile.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=800&lines=Full+Stack+Software+Developer+with+a+focus+on+Front+End;ARB+Architect+and+designer+with+6%2B+years+experience;Constantly+learning+new+things!)](https://git.io/typing-svg)
-
 ### About me:
 
 I am a **Full Stack software developer** and **Architect** from South Korea currently based in London.
 
 - 💻 I am currently **open** to job opportunities.
 - 🌱 I’m am currently learning **Python, Django & French**
-- 👨‍🔬 Fully qualified Architect(UK) turned Software Developer!
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 👨‍🔬 Fully qualified Architect in the UK.
+- 🥅 2022 Goals: Contribute to Open Source projects
 - 👨‍💻 All of my projects are available at **(Personal Website currently in progress ...)**
 - 📄 View my [**GitHub Resume here**](https://github.com/mhbae-dev/CV)
 - 💬 Reach out about **React, Ruby, restaurants & job opportunities!**
 - 📫 How to reach me **mhbae93@gmail.com**
 - ☕ Coffee lover, turning it into code, [**you can buy me a coffee**](https://buymeacoff.ee/mhbae)!
-- ⚡ Fun fact: I love to travel, eat great food(foodie) and read manga when I am not programming.
+- ⚡ Fun fact: I love to travel, eat(foodie) and take photos.
 
 ### Languages and Tools that I use:
 
