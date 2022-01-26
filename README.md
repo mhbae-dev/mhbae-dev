@@ -8,7 +8,6 @@
 
 [About me](#aboutme) |[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests/Other](#interests) | [Contact](#contact) |
 
-
  </div>
 
 ### <a name="aboutme">About me</a>
@@ -23,9 +22,8 @@ I am looking to join a team where I can utilize my strengths and hone my program
 
 ### <a name="skills">Skills</a>
 
-I always greet a challenge and enjoy learning. I am willing to pick up new programming languages, frameworks and tools.
+I always greet a challenge and enjoy learning. I am willing to pick up new programming languages, frameworks and tools. I am currently working with the technologies listed below.
 
-**Technologies that I use:**\
 **Programming Languages**: Ruby, JavaScript\
 **Frameworks**: Ruby on Rails, React, ExpressJS\
 **Testing**: RSpec, Jest\
@@ -45,49 +43,37 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 
 ### <a name="education">Education</a>
 
-#### Makers Academy, London
+#### Makers Academy, London | **Software Development Bootcamp** (October 2021 - Jan 2021)
 
-**Software Development Bootcamp** (October 2021 - Jan 2021)
-
-- Highly selective 16 week software development bootcamp using Ruby, Rails, React and JavaScript Frameworks
+- Highly selective 16 week software development bootcamp using Ruby, Rails, React and JavaScript Frameworks.
 - Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
 - OOP, TDD, MVC, DDD
-- RSpec, Jasmine
+- RSpec, Jest
 
-#### Bertelsmann Technology Scholarship
-
-**Data Science Nanodegree** (January 2020 - June 2020)
+#### Bertelsmann Technology Scholarship | **Data Science Nanodegree** (January 2020 - June 2020)
 
 - Fully funded scholarship candidate
 - Data science course using Python and SQL
 - Manipulated data sets to prepare them for analysis and visualization.
 - Acted as a Student Leader during the course
 
-#### University of Westminster, London
-
-**Postgraduate Diploma Professional Practice in Architecture RIBA/ARB PART 3** (September 2019 - September 2020)
+#### University of Westminster, London | **Postgraduate Diploma Professional Practice in Architecture RIBA/ARB PART 3** (September 2019 - September 2020)
 
 - Gained qualifications to register as a fully qualified Architect having met all the requirements set by the ARB and RIBA.
 - Graduated wih Merit
 
-#### Welsh School of Architecture, Cardiff
-
-**Master of Architecture (MArch) RIBA/ARB PART 2** (September 2015 - June 2018)
+#### Welsh School of Architecture, Cardiff | **Master of Architecture (MArch) RIBA/ARB PART 2** (September 2015 - June 2018)
 
 - Undertook a final masters thesis on a proposal for a timber high rise building in Cardiff using computational design methods, alongside a masters dissertation on Naturally ventilated high rise buildings in an increasingly heated urban environment.
 
-#### Welsh School of Architecture, Cardiff
-
-**Bachelor of Architecture (BSc) RIBA/ARB PART 1** (September 2012 - June 2015)
+#### Welsh School of Architecture, Cardiff | **Bachelor of Architecture (BSc) RIBA/ARB PART 1** (September 2012 - June 2015)
 
 - Explored fluid freeform shell designs using Grasshopper(visual programming language) in Rhinoceros 3D for my final year project. The fluid form was generated depending on spatial requirements of the internal spaces. Developed design iterations through computational design methods.
 - Programmed a [3D Voronoi shell generator] using MaxScript in 3DsMax
 - Developed a program to generate a [weave of 3D pipes] encapsulating any object within 3DsMax using MaxScript.
 - Created a [series of maps] using Grasshopper(visual programming language) in Rhinoceros 3D, studying the impact of advertisements vs art in East London. Twitter location data was used in Grasshopper to show where users tweeted about art or graffiti.
 
-#### Bournemouth School, Bournemouth
-
-**A-Levels** (September 2009 - July 2011)
+#### Bournemouth School, Bournemouth | **A-Levels** (September 2009 - July 2011)
 
 - 3 As in Mathematics, Physics and Graphic Design
 
@@ -115,12 +101,9 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 - **Cello**: I have been playing since I was 9, although I don't have much time to practice these days.
 - **Photography**: My trusty mirrorless camera is always by my side during my travels. I particularly enjoy shooting street/architecture photography. Visit my photography webfolio.
 - **Food**: I am not much of a cook but I love trying foods from all over the world.
-
-- 💻 I am currently **open** to job opportunities.
-- 🌱 I am currently learning **Python, Django & French**
-- 🥅 2022 Goals: Contribute to Open Source projects
-- 💬 Reach out about **React, Ruby, restaurants & job opportunities!**
-- ☕ Coffee lover, turning it into code, [**you can buy me a coffee**](https://buymeacoff.ee/mhbae)!
+- I am currently learning **Python, Django & French**
+- 2022 Goals: Contribute to Open Source projects
+- Reach out about **React, Ruby, restaurants & job opportunities!**
 
 ### Languages
 
@@ -132,7 +115,6 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 - **Github**: [mhbae-dev]
 - **Twitter**: [@mhbae-dev]
 - **LinkedIn**: [myoung-bae]
-
 
 ![All Stats](https://github-readme-stats.vercel.app/api?username=mhbae-dev&show_icons=true&include_all_commits=true&count_private=true)
 
@@ -146,4 +128,3 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 [weave of 3d pipes]: https://github.com/mhbae-dev/wireflow_generator
 [series of maps]: https://github.com/mhbae-dev/urban_drift_mapping
 [portfolio]: https://
-
