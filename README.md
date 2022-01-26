@@ -89,3 +89,66 @@ Technologies that I use:
 **A-Levels** (September 2009 - July 2011)
 
 - 3 As in Mathematics, Physics and Graphic Design
+
+### <a name="experience">Experience</a>
+
+#### IID Architects
+
+**Architect** (February 2018 - July 2021)
+
+- Gained experience managing large scale construction projects and teams working as Principle architect and contract administrator.
+- Main point of contact for client, contractor and various consultants.
+- Ensured that projects ran to program and budget.
+
+#### Archadia Chartered Architects
+
+**Architectural Assistant** (October 2015 - September 2016)
+
+- Worked on a variety of small to large scale projects covering concept, design, tendering, technical drawings and competition work.
+- Gained experience working with client side roles and working to tight deadlines.
+
+#### Korean Paralympic Committee
+
+**London Paralympics Translator** (August 2012)
+
+- Worked with the Korean Paralympic Committee and athletes. My role was to guide the athletes to the various Olympic venues and act as a translator. I also worked with the committee to produce short news articles to be published by Korean news outlets.
+
+### <a name="interests">Interests/Other</a>
+
+- **Olympic Weightlifting**: When I am not in front of a computer I will most likely be in my local gym training.
+- **Rock Climbing**: Bouldering for life.
+- **Cello**: I have been playing since I was 9, although I don't have much time to practice these days.
+- **Photography**: My trusty mirrorless camera is always by my side during my travels. I particularly enjoy shooting street/architecture photography. Visit my photography webfolio.
+- **Food**: I am not much of a cook but I love trying foods from all over the world.
+
+- 💻 I am currently **open** to job opportunities.
+- 🌱 I am currently learning **Python, Django & French**
+- 🥅 2022 Goals: Contribute to Open Source projects
+- 💬 Reach out about **React, Ruby, restaurants & job opportunities!**
+- ☕ Coffee lover, turning it into code, [**you can buy me a coffee**](https://buymeacoff.ee/mhbae)!
+
+### Languages
+
+- **English** (native proficiency)
+- **Korean** (native proficiency)
+
+### <a name="contact">Contact me</a>
+
+- **Github**: [mhbae-dev]
+- **Twitter**: [@mhbae-dev]
+- **LinkedIn**: [myoung-bae]
+
+
+![All Stats](https://github-readme-stats.vercel.app/api?username=mhbae-dev&show_icons=true&include_all_commits=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhbae-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[mhbae-dev]: https://github.com/mhbae-dev
+[myoung-bae]: http://uk.linkedin.com/in/myoung-bae
+[@mhbae-dev]: https://twitter.com/mhbae_dev
+[makers academy]: http://www.makersacademy.com
+[3d voronoi shell generator]: https://github.com/mhbae-dev/voronoi_generator
+[weave of 3d pipes]: https://github.com/mhbae-dev/wireflow_generator
+[series of maps]: https://github.com/mhbae-dev/urban_drift_mapping
+[portfolio]: https://
+
