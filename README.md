@@ -18,6 +18,8 @@
 
 ### <a name="aboutme">About me</a>
 
+---
+
 I am an aspiring Full-stack software developer with a focus on Ruby, Ruby on Rails, JavaScript and React. My background is in architecture having worked in practice for the last six years. I was introduced to programming during my time in university, where I was able to test generative building designs through scripts in architectural software. This piqued my interest as I saw the potential in computational driven design based on real data, mitigating human error in design.
 
 I continued to explore and develop new skills, most importantly starting to learn to build simple programs with JavaScript as my first language. I found the technical challenge and problem solving involved in developing programs fulfilling and wanted to learn how to build more advanced projects. This led me to [Makers Academy], a highly selective full stack software engineering program.
@@ -42,6 +44,8 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 
 ### <a name="Projects">Highlighted Projects</a>
 
+---
+
 | Name       | Description      | Tech/tools        |
 | ---------- | ---------------- | ----------------- |
 | [**#**](#) | loremipsumhahaha | List Technologies |
@@ -54,7 +58,11 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 ### <a name="skills">Skills</a>
 
+---
+
 ### <a name="education">Education</a>
+
+---
 
 #### Makers Academy, London | **Software Development Bootcamp** (October 2021 - Jan 2021)
 
@@ -92,6 +100,8 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 ### <a name="experience">Experience</a>
 
+---
+
 #### IID Architects | **Architect** (February 2018 - July 2021)
 
 - Gained experience managing large scale construction projects and teams working as Principle architect and contract administrator.
@@ -109,6 +119,8 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 ### <a name="interests">Interests/Other</a>
 
+---
+
 - **Olympic Weightlifting**: When I am not in front of a computer I will most likely be in my local gym training.
 - **Rock Climbing**: Bouldering for life.
 - **Cello**: I have been playing since I was 9, although I don't have much time to practice these days．ｆｇｈ
@@ -120,10 +132,14 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 ### Languages
 
+---
+
 - **English** (native proficiency)
 - **Korean** (native proficiency)
 
 ### <a name="contact">Contact me</a>
+
+---
 
 - **Github**: [mhbae-dev]
 - **Twitter**: [@mhbae-dev]
