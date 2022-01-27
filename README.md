@@ -1,10 +1,10 @@
+<div align="center">
+
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
 ![Contactable](https://img.shields.io/badge/Contactable-For_sure-9cf)
 ![Status](https://img.shields.io/badge/Status-Working_on_personal_projects-ff69b4)
 ![Last updated](https://img.shields.io/badge/Last_updated-Jan_2022-blue)
-![Version](https://img.shields.io/badge/Version-The_original-blueviolet) 
-
-<div align="center">
+![Version](https://img.shields.io/badge/Version-The_original-blueviolet)
 
 ### Welcome to my GitHub profile.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 
@@ -18,7 +18,6 @@
 
 ### <a name="aboutme">About me</a>
 
-
 I am an aspiring Full-stack software developer with a focus on Ruby, Ruby on Rails, JavaScript and React. My background is in architecture having worked in practice for the last six years. I was introduced to programming during my time in university, where I was able to test generative building designs through scripts in architectural software. This piqued my interest as I saw the potential in computational driven design based on real data, mitigating human error in design.
 
 I continued to explore and develop new skills, most importantly starting to learn to build simple programs with JavaScript as my first language. I found the technical challenge and problem solving involved in developing programs fulfilling and wanted to learn how to build more advanced projects. This led me to [Makers Academy], a highly selective full stack software engineering program.
@@ -27,9 +26,9 @@ Having undertaken the software development program, I have transitioned from a r
 
 I am looking to join a team where I can utilize my strengths and hone my programming knowledge/technical skills. I hope to develop in an environment that shares my values for personal growth, leadership and wellbeing. I am eager and driven to become an asset to any team that I join.
 
-
 ### <a name="technologies">Technologies</a>
 
+---
 
 I always greet a challenge and enjoy learning. I am willing to pick up new programming languages, frameworks and tools. I am currently working with the technologies listed below.
 
@@ -43,7 +42,6 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 
 ### <a name="Projects">Highlighted Projects</a>
 
-
 | Name       | Description      | Tech/tools        |
 | ---------- | ---------------- | ----------------- |
 | [**#**](#) | loremipsumhahaha | List Technologies |
@@ -52,7 +50,7 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 | [**#**](#) | loremipsumhahaha | List Technologies |
 | [**#**](#) | loremipsumhahaha | List Technologies |
 
-For more projects, please see my [GitHub repository list.](https://github.com/mhbae-dev?tab=repositories).
+For more projects, please see my [GitHub repository list](https://github.com/mhbae-dev?tab=repositories).
 
 ### <a name="skills">Skills</a>
 
@@ -111,10 +109,9 @@ For more projects, please see my [GitHub repository list.](https://github.com/mh
 
 ### <a name="interests">Interests/Other</a>
 
-
 - **Olympic Weightlifting**: When I am not in front of a computer I will most likely be in my local gym training.
 - **Rock Climbing**: Bouldering for life.
-- **Cello**: I have been playing since I was 9, although I don't have much time to practice these days.
+- **Cello**: I have been playing since I was 9, although I don't have much time to practice these days．ｆｇｈ
 - **Photography**: My trusty mirrorless camera is always by my side during my travels. I particularly enjoy shooting street/architecture photography. Visit my photography webfolio.
 - **Food**: I am not much of a cook but I love trying foods from all over the world.
 - I am currently learning **Python, Django & French**
@@ -127,7 +124,6 @@ For more projects, please see my [GitHub repository list.](https://github.com/mh
 - **Korean** (native proficiency)
 
 ### <a name="contact">Contact me</a>
-
 
 - **Github**: [mhbae-dev]
 - **Twitter**: [@mhbae-dev]
