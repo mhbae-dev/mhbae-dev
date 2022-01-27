@@ -130,9 +130,7 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 - 2022 Goals: Contribute to Open Source projects
 - Reach out about **React, Ruby, restaurants & job opportunities!**
 
-### Languages
-
----
+## Languages
 
 - **English** (native proficiency)
 - **Korean** (native proficiency)
