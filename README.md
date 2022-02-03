@@ -142,8 +142,8 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 ## <a name="contact">Contact me</a>
 
 - Please feel free to reach out about **React, Ruby, cool restaurants & job opportunities!**
-- **Twitter**: [@mhbae-dev]
-- **LinkedIn**: [myoung-bae]
+- **Twitter**: [#]
+- **LinkedIn**: [#]
 
 [myoung-bae]: http://uk.linkedin.com/in/myoung-bae
 [@mhbae-dev]: https://twitter.com/mhbae_dev
