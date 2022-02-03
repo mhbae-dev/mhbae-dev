@@ -1,16 +1,18 @@
 <div align="center">
 
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen)
-![Contactable](https://img.shields.io/badge/Contactable-For_sure-9cf)
+![Contactable](https://img.shields.io/badge/Contactable-Yes-9cf)
 ![Status](https://img.shields.io/badge/Status-Working_on_personal_projects-ff69b4)
-![Last updated](https://img.shields.io/badge/Last_updated-Jan_2022-blue)
-![Version](https://img.shields.io/badge/Version-The_original-blueviolet)
+![Last updated](https://img.shields.io/badge/Last_updated-Feb_2022-blue)
+![Version](https://img.shields.io/badge/Version-1.00-blueviolet)
 
 ### Welcome to my GitHub profile.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 
 <h1>Myoung Bae</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=800&lines=Full+Stack+Software+Developer+with+a+focus+on+design;ARB+Architect+and+designer+with+6%2B+years+experience;Constantly+learning+new+things!)](https://git.io/typing-svg)
+ 
+
 
 [About me](#aboutme) | [Technologies](#technologies) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests/Other](#interests) | [Contact](#contact) |
 
@@ -18,9 +20,9 @@
 
 ## <a name="aboutme">About me</a>
 
-I am an aspiring Full-stack software developer with a focus on Ruby, Ruby on Rails, JavaScript and React. My background is in architecture having worked in practice for the last six years. I was introduced to programming during my time in university, where I was able to test generative building designs through scripts in architectural software. This piqued my interest as I saw the potential in computational driven design based on real data, mitigating human error in design.
+I am an aspiring Full-stack software developer with a focus on JavaScript and React. My background is in architecture having worked in practice for the last six years. I was introduced to programming during my time in university, where I was able to test generative building designs through scripts in architectural software. This piqued my interest as I saw the potential in computational driven design based on real data, mitigating human error in design.
 
-I continued to explore and develop new skills, most importantly starting to learn to build simple programs with JavaScript as my first language. I found the technical challenge and problem solving involved in developing programs fulfilling and wanted to learn how to build more advanced projects. This led me to [Makers Academy], a highly selective full stack software engineering program.
+I continued to explore and develop new skills, most importantly starting to learn to build simple programs with JavaScript as my first language. I found the technical challenge and problem solving involved in developing programs fulfilling and wanted to learn how to build more advanced projects. This led me to [Makers Academy], a highly selective full stack software development program.
 
 Having undertaken the software development program, I have transitioned from a registered Architect in the UK to a competent and ambitious software developer with experience in developing aesthetic, responsive and scalable web applications.
 
@@ -32,11 +34,11 @@ I am looking to join a team where I can utilize my strengths and hone my program
 
 I always greet a challenge and enjoy learning. I am willing to pick up new programming languages, frameworks and tools. I am currently working with the technologies listed below.
 
-**Programming Languages**: Ruby, JavaScript\
-**Frameworks**: Ruby on Rails, React, ExpressJS\
+**Programming Languages**: JavaScript, Ruby, MaxScript\
+**Frameworks**: React, Ruby on Rails, ExpressJS\
 **Hosting**: Heroku, Vercel, Netlify\
 **Testing**: RSpec, Jest\
-**Tools/Other**: Git, GitHub, Command-line, HTML, CSS, Sass, Figma, SQL (PostgreSQL, TablePlus), Adobe Creative Suite
+**Tools/Other**: Git, GitHub, Command-line, HTML, CSS, Sass, Figma, SQL (PostgreSQL, TablePlus), Adobe Creative Suite, VS Code, WSL2
 
 <br/>
 
@@ -57,6 +59,16 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 | [리뷰 그리고 공부](#)              | loremipsumhahaha | List Technologies                                      |
 
 For more projects, please see my [GitHub repository list](https://github.com/mhbae-dev?tab=repositories).
+
+#### -----------
+
+| Name                               | Description      | Tech/tools                                             |
+| ---------------------------------- | ---------------- | ------------------------------------------------------ |
+| [placeholder](#) | loremipsumhahaha |              | 
+| [placeholder](#)                        | loremipsumhahaha |                                      |
+| [placeholder](#)                        | loremipsumhahaha |                                   |
+| [placeholder](#)                        | loremipsumhahaha | |
+
 
 ## <a name="skills">Skills</a>
 
@@ -130,15 +142,12 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 ## <a name="contact">Contact me</a>
 
 - Please feel free to reach out about **React, Ruby, cool restaurants & job opportunities!**
-- **Github**: [mhbae-dev]
 - **Twitter**: [@mhbae-dev]
 - **LinkedIn**: [myoung-bae]
 
-[mhbae-dev]: https://github.com/mhbae-dev
 [myoung-bae]: http://uk.linkedin.com/in/myoung-bae
 [@mhbae-dev]: https://twitter.com/mhbae_dev
 [makers academy]: http://www.makersacademy.com
 [3d voronoi shell generator]: https://github.com/mhbae-dev/voronoi_generator
 [weave of 3d pipes]: https://github.com/mhbae-dev/wireflow_generator
 [series of maps]: https://github.com/mhbae-dev/urban_drift_mapping
-[portfolio]: https://
