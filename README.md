@@ -64,10 +64,9 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 | Name                               | Description      | Tech/tools                                             |
 | ---------------------------------- | ---------------- | ------------------------------------------------------ |
-| [placeholder](#) | loremipsumhahaha |              | 
-| [placeholder](#)                        | loremipsumhahaha |                                      |
-| [placeholder](#)                        | loremipsumhahaha |                                   |
-| [placeholder](#)                        | loremipsumhahaha | |
+| [리액트 러닝](#) | loremipsumhahaha |              | 
+| [자바스크립트 러닝](#)                        | loremipsumhahaha |                                      |
+| [리뷰](#)                        | loremipsumhahaha |                                   |
 
 
 ## <a name="skills">Skills</a>
