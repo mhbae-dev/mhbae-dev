@@ -42,26 +42,29 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 
 ## <a name="Projects">Highlighted Projects</a>
 
-| Name       | Description      | Tech/tools        |
-| ---------- | ---------------- | ----------------- |
-| [**#**](#) | loremipsumhahaha | List Technologies |
-| [**#**](#) | loremipsumhahaha | List Technologies |
-| [**#**](#) | loremipsumhahaha | List Technologies |
-| [**#**](#) | loremipsumhahaha | List Technologies |
-| [**#**](#) | loremipsumhahaha | List Technologies |
+| Name                               | Description      | Tech/tools                                             |
+| ---------------------------------- | ---------------- | ------------------------------------------------------ |
+| [Personal Photography Webfolio](#) | loremipsumhahaha | JavaScript, React, Express, Sass, Netlify              |
+| [리액트](#)                        | loremipsumhahaha | List Technologies                                      |
+| [래일즈](#)                        | loremipsumhahaha | List Technologies                                      |
+| [Heyday](#)                        | loremipsumhahaha | JavaScript, React, Express, Jest, Sass, Vercel, Heroku |
+| [어라운드](#)                      | loremipsumhahaha | HTML, CSS, JavaScript, BEM, Vercel                     |
+| [포트랜드](#)                      | loremipsumhahaha | HTML, CSS, BEM, Vercel                                 |
+| [리뷰 그리고 공부](#)              | loremipsumhahaha | List Technologies                                      |
 
 For more projects, please see my [GitHub repository list](https://github.com/mhbae-dev?tab=repositories).
 
 ## <a name="skills">Skills</a>
 
+
 ## <a name="education">Education</a>
 
-#### Makers Academy, London | **Software Development Bootcamp** (October 2021 - Jan 2021)
+#### [Makers Academy](https://www.makers.tech/), London | **Software Development Bootcamp** (October 2021 - Jan 2021)
 
-- Highly selective 16 week software development bootcamp using Ruby, Rails, React and JavaScript Frameworks.
-- Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
-- OOP, TDD, MVC, DDD
-- RSpec, Jest
+- Highly selective software development program using Ruby, Rails, React and JavaScript Frameworks.
+- Used Agile methodologies to problem solve efficiently and work effectively as a team, using pair programming, XP values, daily stand-ups, retros and sprint planning.
+- Worked on group projects and collaborated using GitHub and using CI/CD to reduce integration risk.
+- Developed programs following TDD, S.O.L.I.D and OOP principles to create clear, simple code and well-tested applications.
 
 #### [Bertelsmann Technology Scholarship](https://www.udacity.com/bertelsmann-tech-scholarships) | **Data Science Nanodegree** (January 2020 - June 2020)
 
@@ -105,18 +108,15 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 #### Korean Paralympic Committee | **London Paralympics Translator** (August 2012)
 
-- Worked with the Korean Paralympic Committee and athletes. My role was to guide the athletes to the various Olympic venues and act as a translator. I also worked with the committee to produce short news articles to be published by Korean news outlets.
-
 ## <a name="interests">Interests/Other</a>
 
-- **Olympic Weightlifting**: When I am not in front of a computer I will most likely be in my local gym training.
-- **Rock Climbing**: Bouldering for life.
-- **Cello**: I have been playing since I was 9, although I don't have much time to practice these days．ｆｇｈ
-- **Photography**: My trusty mirrorless camera is always by my side during my travels. I particularly enjoy shooting street/architecture photography. Visit my photography webfolio.
-- **Food**: I am not much of a cook but I love trying foods from all over the world.
-- I am currently learning **Python, Django & French**
-- 2022 Goals: Contribute to Open Source projects
-- Reach out about **React, Ruby, restaurants & job opportunities!**
+- 🥅**2022 Goals**: Contribute to Open Source projects
+- 💻**Continued Learning**: I am currently learning **Python & French**
+- 🏋️**Olympic Weightlifting**: When I am not in front of a computer I will most likely be in my local gym training.
+- 🎻**Cello**: I have been playing since I was 9, although I don't have much time to practice these days. Ex-Bournemouth & Wessex Youth Orchestra First Desk Cellist.
+- 📷**Photography**: My trusty mirrorless camera is always by my side during my travels. I particularly enjoy shooting street/architecture photography. Visit my photography webfolio.
+- 🍽️**Food**: I am not much of a cook but I love trying foods from all over the world.
+- ✈️**Travelling**: Travelling is a big part of my life. I love to visit different countries to experience and learn from other cultures.
 
 ## Languages
 
@@ -125,6 +125,7 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 ## <a name="contact">Contact me</a>
 
+- Please feel free to reach out about **React, Ruby, cool restaurants & job opportunities!**
 - **Github**: [mhbae-dev]
 - **Twitter**: [@mhbae-dev]
 - **LinkedIn**: [myoung-bae]
