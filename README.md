@@ -56,6 +56,13 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 ## <a name="skills">Skills</a>
 
+#### Excellent communicator and mentor
+
+### Great collaborator -
+
+#### Analytical thinker and effective problem solver
+
+#### Quick Learner
 
 ## <a name="education">Education</a>
 
