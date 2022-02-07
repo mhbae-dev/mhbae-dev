@@ -81,54 +81,54 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 ## <a name="education">Education</a>
 
-#### [Makers Academy](https://www.makers.tech/), London | **Software Development Bootcamp** (October 2021 - Jan 2021)
+#### [Makers Academy](https://www.makers.tech/), London | **Software Development Bootcamp** | October 2021 - Jan 2021
 
 - Highly selective software development program using Ruby, Rails, React and JavaScript Frameworks.
 - Used Agile methodologies to problem solve efficiently and work effectively as a team, using pair programming, XP values, daily stand-ups, retros and sprint planning.
 - Worked on group projects and collaborated using GitHub and using CI/CD to reduce integration risk.
 - Developed programs following TDD, S.O.L.I.D and OOP principles to create clear, simple code and well-tested applications.
 
-#### [Bertelsmann Technology Scholarship](https://www.udacity.com/bertelsmann-tech-scholarships) | **Data Science Nanodegree** (January 2020 - June 2020)
+#### [Bertelsmann Technology Scholarship](https://www.udacity.com/bertelsmann-tech-scholarships) | **Data Science Nanodegree** | January 2020 - June 2020
 
 - Fully funded scholarship candidate
 - Data science course using Python and SQL
 - Manipulated data sets to prepare them for analysis and visualization.
 - Acted as a Student Leader during the course
 
-#### [University of Westminster](https://www.westminster.ac.uk/architecture-interiors-and-urban-design-courses/2022-23/september/part-time-evening-only/architecture-postgraduate-diploma-professional-practice-riba-part-iii), London | **Postgraduate Diploma Professional Practice in Architecture RIBA/ARB PART 3** (September 2019 - September 2020)
+#### [University of Westminster](https://www.westminster.ac.uk/architecture-interiors-and-urban-design-courses/2022-23/september/part-time-evening-only/architecture-postgraduate-diploma-professional-practice-riba-part-iii), London | **Postgraduate Diploma Professional Practice in Architecture RIBA/ARB PART 3** | September 2019 - September 2020
 
 - Gained qualifications to register as a fully qualified Architect having met all the requirements set by the ARB and RIBA.
 - Graduated wih Merit
 
-#### [Welsh School of Architecture](https://www.cardiff.ac.uk/architecture), Cardiff | **Master of Architecture (MArch) RIBA/ARB PART 2** (September 2015 - June 2018)
+#### [Welsh School of Architecture](https://www.cardiff.ac.uk/architecture), Cardiff | **Master of Architecture (MArch) RIBA/ARB PART 2** | September 2015 - June 2018
 
 - Undertook a final masters thesis on a proposal for a timber high rise building in Cardiff using computational design methods, alongside a masters dissertation on Naturally ventilated high rise buildings in an increasingly heated urban environment.
 
-#### [Welsh School of Architecture](https://www.cardiff.ac.uk/architecture), Cardiff | **Bachelor of Architecture (BSc) RIBA/ARB PART 1** (September 2012 - June 2015)
+#### [Welsh School of Architecture](https://www.cardiff.ac.uk/architecture), Cardiff | **Bachelor of Architecture (BSc) RIBA/ARB PART 1** | September 2012 - June 2015
 
 - Explored fluid freeform shell designs using Grasshopper(visual programming language) in Rhinoceros 3D for my final year project. The fluid form was generated depending on spatial requirements of the internal spaces. Developed design iterations through computational design methods.
 - Programmed a [3D Voronoi shell generator] using MaxScript in 3DsMax
 - Developed a program to generate a [weave of 3D pipes] encapsulating any object within 3DsMax using MaxScript.
 - Created a [series of maps] using Grasshopper(visual programming language) in Rhinoceros 3D, studying the impact of advertisements vs art in East London. Twitter location data was used in Grasshopper to show where users tweeted about art or graffiti.
 
-#### [Bournemouth School](https://www.bournemouth-school.org/), Bournemouth | **A-Levels** (September 2009 - July 2011)
+#### [Bournemouth School](https://www.bournemouth-school.org/), Bournemouth | **A-Levels** | September 2009 - July 2011
 
 - 3 As in Mathematics, Physics and Graphic Design
 
 ## <a name="experience">Experience</a>
 
-#### IID Architects | **Architect** (February 2018 - July 2021)
+#### IID Architects | **Architect** | February 2018 - July 2021
 
 - Gained experience managing large scale construction projects and teams working as Principle architect and contract administrator.
 - Main point of contact for client, contractor and various consultants.
 - Ensured that projects ran to program and budget.
 
-#### Archadia Chartered Architects | **Architectural Assistant** (October 2015 - September 2016)
+#### Archadia Chartered Architects | **Architectural Assistant** | October 2015 - September 2016
 
 - Worked on a variety of small to large scale projects covering concept, design, tendering, technical drawings and competition work.
 - Gained experience working with client side roles and working to tight deadlines.
 
-#### Korean Paralympic Committee | **London Paralympics Translator** (August 2012)
+#### Korean Paralympic Committee | **London Paralympics Translator** | August 2012
 
 ## <a name="interests">Interests/Other</a>
 
