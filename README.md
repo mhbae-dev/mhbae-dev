@@ -81,7 +81,7 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 ## <a name="education">Education</a>
 
-#### [Makers Academy](https://www.makers.tech/), London | **Software Development Bootcamp** | October 2021 - Jan 2021
+#### [Makers Academy](https://www.makers.tech/), London | **Software Development** | October 2021 - Jan 2021
 
 - Highly selective software development program using Ruby, Rails, React and JavaScript Frameworks.
 - Used Agile methodologies to problem solve efficiently and work effectively as a team, using pair programming, XP values, daily stand-ups, retros and sprint planning.
