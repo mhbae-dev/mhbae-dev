@@ -52,10 +52,10 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 | ---------------------------------- | ---------------- | ------------------------------------------------------ |
 | [Portfolio Website](#) | loremipsumhahaha | JavaScript, React, Express, Sass, Netlify              |
 | [Movie Trailer App](#)                        | loremipsumhahaha | List Technologies                                      |
-| [Acebook](#)                        | loremipsumhahaha | List Technologies                                      |
+| [Acebook](#)                        | loremipsumhahaha | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, Bootstrap    |
 | [Heyday](#)                        | loremipsumhahaha | JavaScript, React, Express, Jest, Sass, Vercel, Heroku |
-| [Around the U.S.](#)                      | loremipsumhahaha | HTML, CSS, JavaScript, BEM, Vercel                     |
-| [From Portland to Portland](#)                      | loremipsumhahaha | HTML, CSS, BEM, Vercel                                 |
+| [Around the U.S.](#)                      | loremipsumhahaha | HTML, CSS, JavaScript, BEM, API                 |
+| [From Portland to Portland](#)                      | loremipsumhahaha | HTML, CSS, BEM                        |
 
 For more projects, please see my [GitHub repository list](https://github.com/mhbae-dev?tab=repositories).
 
@@ -64,7 +64,6 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 | Name                               | Description      | Tech/tools                                             |
 | ---------------------------------- | ---------------- | ------------------------------------------------------ |
 | [React Learning Portfolio](#) | loremipsumhahaha |              | 
-| [리뷰](#)                        | loremipsumhahaha |                                   |
 
 
 ## <a name="skills">Skills</a>
