@@ -51,11 +51,11 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 | Name                               | Description      | Tech/tools                                             |
 | ---------------------------------- | ---------------- | ------------------------------------------------------ |
 | [Portfolio Website](#) | loremipsumhahaha | JavaScript, React, Express, Sass, Netlify              |
-| [Markdown Note App](#)                        | loremipsumhahaha | List Technologies                                      |
-| [Movie Search App](#)                        | loremipsumhahaha | List Technologies                                      |
+| [Markdown Note App](#)                        | loremipsumhahaha | JavaScript, React, Express, CSS, Vercel |
+| [Movie Search App](#)                        | loremipsumhahaha | JavaScript, React, Express, CSS, Vercel  |
 | [Heyday](#)                        | loremipsumhahaha | JavaScript, React, Express, Jest, Sass, Vercel, Heroku |
 | [Acebook](#)                        | loremipsumhahaha | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, Bootstrap    |
-| [Around the U.S.](#)                      | loremipsumhahaha | HTML, CSS, JavaScript, BEM, API                 |
+| [Around the U.S.](#)                      | loremipsumhahaha | HTML, CSS, JavaScript, BEM                 |
 | [From Portland to Portland](#)                      | loremipsumhahaha | HTML, CSS, BEM                        |
 
 For more projects, please see my [GitHub repository list](https://github.com/mhbae-dev?tab=repositories).
