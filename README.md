@@ -56,7 +56,6 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 | [Heyday](#)                        | loremipsumhahaha | JavaScript, React, Express, Jest, Sass, Vercel, Heroku |
 | [Around the U.S.](#)                      | loremipsumhahaha | HTML, CSS, JavaScript, BEM, Vercel                     |
 | [From Portland to Portland](#)                      | loremipsumhahaha | HTML, CSS, BEM, Vercel                                 |
-| [React Learning Portfolio](#)              | loremipsumhahaha | List Technologies                                      |
 
 For more projects, please see my [GitHub repository list](https://github.com/mhbae-dev?tab=repositories).
 
