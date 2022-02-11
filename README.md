@@ -50,22 +50,21 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 
 | Name                               | Description      | Tech/tools                                             |
 | ---------------------------------- | ---------------- | ------------------------------------------------------ |
-| [Personal Photography Webfolio](#) | loremipsumhahaha | JavaScript, React, Express, Sass, Netlify              |
-| [리액트](#)                        | loremipsumhahaha | List Technologies                                      |
-| [래일즈](#)                        | loremipsumhahaha | List Technologies                                      |
+| [Portfolio Website](#) | loremipsumhahaha | JavaScript, React, Express, Sass, Netlify              |
+| [Movie Trailer App](#)                        | loremipsumhahaha | List Technologies                                      |
+| [Acebook](#)                        | loremipsumhahaha | List Technologies                                      |
 | [Heyday](#)                        | loremipsumhahaha | JavaScript, React, Express, Jest, Sass, Vercel, Heroku |
-| [어라운드](#)                      | loremipsumhahaha | HTML, CSS, JavaScript, BEM, Vercel                     |
-| [포트랜드](#)                      | loremipsumhahaha | HTML, CSS, BEM, Vercel                                 |
-| [리뷰 그리고 공부](#)              | loremipsumhahaha | List Technologies                                      |
+| [Around the U.S.](#)                      | loremipsumhahaha | HTML, CSS, JavaScript, BEM, Vercel                     |
+| [From Portland to Portland](#)                      | loremipsumhahaha | HTML, CSS, BEM, Vercel                                 |
+| [React Learning Portfolio](#)              | loremipsumhahaha | List Technologies                                      |
 
 For more projects, please see my [GitHub repository list](https://github.com/mhbae-dev?tab=repositories).
 
-#### -----------
+#### Learning Portfolio
 
 | Name                               | Description      | Tech/tools                                             |
 | ---------------------------------- | ---------------- | ------------------------------------------------------ |
-| [리액트 러닝](#) | loremipsumhahaha |              | 
-| [자바스크립트 러닝](#)                        | loremipsumhahaha |                                      |
+| [React Learning Portfolio](#) | loremipsumhahaha |              | 
 | [리뷰](#)                        | loremipsumhahaha |                                   |
 
 
