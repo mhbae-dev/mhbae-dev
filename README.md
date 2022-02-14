@@ -10,10 +10,9 @@
 
 <h1>Myoung Bae</h1>
 
- <div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=800&lines=Full+Stack+Software+Developer+with+a+focus+on+design;ARB+Architect+and+designer+with+6%2B+years+experience;Constantly+learning+new+things!)](https://git.io/typing-svg)
- </div>
  
+ <p>Click on the links below to view my portfolio and resume</p>
  <h3 style="font-size: 20px;" align="center">
     <a href="#">Portfolio</a> | 
     <a href="#">Resume</a> 
