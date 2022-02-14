@@ -60,8 +60,8 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 | [Movie Search App](#)                        | loremipsumhahaha | JavaScript, React, Express, CSS, Vercel  |
 | [Heyday](#)                        | loremipsumhahaha | JavaScript, React, Express, Jest, Sass, Vercel, Heroku |
 | [Acebook](#)                        | loremipsumhahaha | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, Bootstrap    |
-| [Around the U.S.](#)                      | loremipsumhahaha | HTML, CSS, JavaScript, BEM                 |
-| [From Portland to Portland](#)                      | loremipsumhahaha | HTML, CSS, BEM                        |
+| [Around the U.S.](https://github.com/mhbae-dev/web_project_4)                      | loremipsumhahaha | HTML, CSS, JavaScript, BEM                 |
+| [From Portland to Portland](https://github.com/mhbae-dev/web_project_3)                      | loremipsumhahaha | HTML, CSS, BEM                        |
 
 For more projects, please see my [GitHub repository list](https://github.com/mhbae-dev?tab=repositories).
 
