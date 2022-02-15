@@ -68,7 +68,7 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 | Name                               | Description      | Tech/tools                                             |
 | ---------------------------------- | ---------------- | ------------------------------------------------------ |
 | [React Learning Portfolio](#) | This repository hosts a collection of React projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in React. |       React       | 
-| [JavaScript Learning Portfolio](#) | This repository hosts a collection of JavaScript projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in JavaScript. |       JavaScript       | 
+| [JavaScript Learning Portfolio](https://javascript-learning.vercel.app/) | This repository hosts a collection of JavaScript projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in JavaScript. |       JavaScript       | 
 
 
 ## <a name="skills">Skills</a>
@@ -150,8 +150,8 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 ## <a name="contact">Contact me</a>
 
 - Please feel free to reach out about **React, Ruby, cool restaurants & job opportunities!**
-- **Twitter**: [#]
-- **LinkedIn**: [#]
+- **Twitter**: [@mhbae-dev]
+- **LinkedIn**: [myoung-bae]
 
 [myoung-bae]: http://uk.linkedin.com/in/myoung-bae
 [@mhbae-dev]: https://twitter.com/mhbae_dev
