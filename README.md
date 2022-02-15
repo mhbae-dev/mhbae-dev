@@ -67,7 +67,7 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 | Name                               | Description      | Tech/tools                                             |
 | ---------------------------------- | ---------------- | ------------------------------------------------------ |
-| [React Learning Portfolio](#) | This repository hosts a collection of React projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in React. |              | React
+| [React Learning Portfolio](#) | This repository hosts a collection of React projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in React. |       React       | 
 | [JavaScript Learning Portfolio](#) | This repository hosts a collection of JavaScript projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in JavaScript. |       JavaScript       | 
 
 
