@@ -55,13 +55,11 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 
 | Name                               | Description      | Tech/tools                                             |
 | ---------------------------------- | ---------------- | ------------------------------------------------------ |
-| [Portfolio Website](#) | loremipsumhahaha | JavaScript, React, Express, Sass, Netlify              |
-| [Markdown Note App](#)                        | loremipsumhahaha | JavaScript, React, Express, CSS, Vercel |
-| [Movie Search App](#)                        | loremipsumhahaha | JavaScript, React, Express, CSS, Vercel  |
-| [Heyday](https://github.com/mhbae-dev/heyday)                        | loremipsumhahaha | JavaScript, React, Express, Node, Jest, HTML, Sass, Vercel, Heroku |
-| [Acebook](https://github.com/mhbae-dev/acebook-ace) | loremipsumhahaha | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, HTML, CSS, Bootstrap  |
-| [Around the U.S.](https://github.com/mhbae-dev/web_project_4)                      | loremipsumhahaha | HTML, CSS, JavaScript, BEM                 |
-| [From Portland to Portland](https://github.com/mhbae-dev/web_project_3)                      | loremipsumhahaha | HTML, CSS, BEM                        |
+| [Movie Search App](#)   | A fully responsive movie website with information populated from using a movieAPI. | JavaScript, React, Express, CSS, Vercel  |
+| [Heyday](https://github.com/mhbae-dev/heyday)                        | A web application to assist users organize a day to meet up taking into account the users availability and preferences. The app aims to achieve this while emphasizing privacy and ease-of-access. | JavaScript, React, Express, Node, Jest, HTML, Sass, Vercel, Heroku |
+| [Acebook](https://github.com/mhbae-dev/acebook-ace) | A social media application implementing CRUD operations inspired by Facebook. Users can go post images and comments with the ability to edit and delete these later on. All posts and comments are tied to a specific user so they can only be edited/amended by the owner | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, HTML, CSS, Bootstrap  |
+| [Around the U.S.](https://github.com/mhbae-dev/web_project_4)                      | This is a interactive photo gallery project that allows users to upload, remove, or like photos. Users can also update their name and title via a popup form. Modals and client-side form validation has been implemented to improve the user's experience. | HTML, CSS, JavaScript, BEM                 |
+| [From Portland to Portland](https://github.com/mhbae-dev/web_project_3)                      | A single page website project following a primary goal to make its content responsive and accessible. This project has been set up using Flexbox and CSS Grid for layout and follows responsive design principles, to ensure that it displays seamlessly across all device sizes. | HTML, CSS, BEM                        |
 
 For more projects, please see my [GitHub repository list](https://github.com/mhbae-dev?tab=repositories).
 
@@ -69,7 +67,8 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 | Name                               | Description      | Tech/tools                                             |
 | ---------------------------------- | ---------------- | ------------------------------------------------------ |
-| [React Learning Portfolio](#) | loremipsumhahaha |              | 
+| [React Learning Portfolio](#) | This repository hosts a collection of React projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in React. |              | React
+| [JavaScript Learning Portfolio](#) | This repository hosts a collection of JavaScript projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in JavaScript. |       JavaScript       | 
 
 
 ## <a name="skills">Skills</a>
