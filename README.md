@@ -70,17 +70,6 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 | [React Learning Portfolio](#) | This repository hosts a collection of React projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in React. |       React       | 
 | [JavaScript Learning Portfolio](https://javascript-learning.vercel.app/) | This repository hosts a collection of JavaScript projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in JavaScript. |       JavaScript       | 
 
-
-## <a name="skills">Skills</a>
-
-#### Excellent communicator and mentor
-
-### Great collaborator -
-
-#### Analytical thinker and effective problem solver
-
-#### Quick Learner
-
 ## <a name="education">Education</a>
 
 #### [Makers Academy](https://www.makers.tech/), London | **Software Development** | October 2021 - Jan 2021
