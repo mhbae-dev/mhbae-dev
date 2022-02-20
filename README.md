@@ -11,15 +11,15 @@
 <h1>Myoung Bae</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=800&center=true&lines=Full+Stack+Software+Developer+with+a+focus+on+design;ARB+Architect+and+designer+with+6%2B+years+experience;Constantly+learning+new+things!)](https://git.io/typing-svg)
- 
+
  <p>Click on the links below to view my portfolio and resume</p>
  <h3 style="font-size: 20px;" align="center">
     <a href="https://portfolio-myoung.vercel.app/">Portfolio</a> | 
     <a href="#">Resume</a> 
 </h3>
- 
 
-[About me](#aboutme) | [Technologies](#technologies) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests/Other](#interests) | [Contact](#contact) |
+
+[About me](#aboutme) | [Technologies](#technologies) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests/Other](#interests) | [Contact](#contact) |
 
  </div>
 
@@ -53,22 +53,22 @@ I always greet a challenge and enjoy learning. I am willing to pick up new progr
 
 ## <a name="Projects">Highlighted Projects</a>
 
-| Name                               | Description      | Tech/tools                                             |
-| ---------------------------------- | ---------------- | ------------------------------------------------------ |
-| [Movie Search App](#)   | A fully responsive movie website with information populated from using a movieAPI. | JavaScript, React, Express, CSS, Vercel  |
-| [Heyday](https://github.com/mhbae-dev/heyday)                        | A web application to assist users organize a day to meet up taking into account the users availability and preferences. The app aims to achieve this while emphasizing privacy and ease-of-access. | JavaScript, React, Express, Node, Jest, HTML, Sass, Vercel, Heroku |
-| [Acebook](https://github.com/mhbae-dev/acebook-ace) | A social media application implementing CRUD operations inspired by Facebook. Users can go post images and comments with the ability to edit and delete these later on. All posts and comments are tied to a specific user so they can only be edited/amended by the owner | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, HTML, CSS, Bootstrap  |
-| [Around the U.S.](https://github.com/mhbae-dev/web_project_4)                      | This is a interactive photo gallery project that allows users to upload, remove, or like photos. Users can also update their name and title via a popup form. Modals and client-side form validation has been implemented to improve the user's experience. | HTML, CSS, JavaScript, BEM                 |
-| [From Portland to Portland](https://github.com/mhbae-dev/web_project_3)                      | A single page website project following a primary goal to make its content responsive and accessible. This project has been set up using Flexbox and CSS Grid for layout and follows responsive design principles, to ensure that it displays seamlessly across all device sizes. | HTML, CSS, BEM                        |
+| Name                                                                    | Description                                                                                                                                                                                                                                                                       | Tech/tools                                                               |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [Movie Search App](#)                                                   | A fully responsive movie website with information populated from using a movieAPI.                                                                                                                                                                                                | JavaScript, React, Express, CSS, Vercel                                  |
+| [Heyday](https://github.com/mhbae-dev/heyday)                           | A web application to assist users organize a day to meet up taking into account the users availability and preferences. The app aims to achieve this while emphasizing privacy and ease-of-access.                                                                                | JavaScript, React, Express, Node, Jest, HTML, Sass, Vercel, Heroku       |
+| [Acebook](https://github.com/mhbae-dev/acebook-ace)                     | A social media application implementing CRUD operations inspired by Facebook. Users can go post images and comments with the ability to edit and delete these later on. All posts and comments are tied to a specific user so they can only be edited/amended by the owner        | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, HTML, CSS, Bootstrap |
+| [Around the U.S.](https://github.com/mhbae-dev/web_project_4)           | This is a interactive photo gallery project that allows users to upload, remove, or like photos. Users can also update their name and title via a popup form. Modals and client-side form validation has been implemented to improve the user's experience.                       | HTML, CSS, JavaScript, BEM                                               |
+| [From Portland to Portland](https://github.com/mhbae-dev/web_project_3) | A single page website project following a primary goal to make its content responsive and accessible. This project has been set up using Flexbox and CSS Grid for layout and follows responsive design principles, to ensure that it displays seamlessly across all device sizes. | HTML, CSS, BEM                                                           |
 
 For more projects, please see my [GitHub repository list](https://github.com/mhbae-dev?tab=repositories).
 
 #### Learning Portfolio
 
-| Name                               | Description      | Tech/tools                                             |
-| ---------------------------------- | ---------------- | ------------------------------------------------------ |
-| [React Learning Portfolio](#) | This repository hosts a collection of React projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in React. |       React       | 
-| [JavaScript Learning Portfolio](https://javascript-learning.vercel.app/) | This repository hosts a collection of JavaScript projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in JavaScript. |       JavaScript       | 
+| Name                                                                     | Description                                                                                                                                                                        | Tech/tools |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [React Learning Portfolio](#)                                            | This repository hosts a collection of React projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in React.           | React      |
+| [JavaScript Learning Portfolio](https://javascript-learning.vercel.app/) | This repository hosts a collection of JavaScript projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in JavaScript. | JavaScript |
 
 ## <a name="education">Education</a>
 
@@ -93,6 +93,8 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 #### [Welsh School of Architecture](https://www.cardiff.ac.uk/architecture), Cardiff | **Master of Architecture (MArch) RIBA/ARB PART 2** | September 2015 - June 2018
 
+- Visiting student at the University of Basel and ETH Zurich to study computational design methods and robotics in construction.
+- First cohort to undertake the Computational Methods in Architecture course.
 - Undertook a final masters thesis on a proposal for a timber high rise building in Cardiff using computational design methods, alongside a masters dissertation on Naturally ventilated high rise buildings in an increasingly heated urban environment.
 
 #### [Welsh School of Architecture](https://www.cardiff.ac.uk/architecture), Cardiff | **Bachelor of Architecture (BSc) RIBA/ARB PART 1** | September 2012 - June 2015
