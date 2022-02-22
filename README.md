@@ -10,7 +10,7 @@
 
 <h1>Myoung Bae</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=800&center=true&lines=Full+Stack+Software+Developer+with+a+focus+on+design;ARB+Architect+and+designer+with+6%2B+years+experience;Constantly+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=800&center=true&lines=Full+Stack+Software+Developer+with+a+focus+on+design;ARB+Architect+and+designer+with+5%2B+years+experience;Constantly+learning+new+things!)](https://git.io/typing-svg)
 
  <p>Click on the links below to view my portfolio and resume</p>
  <h3 style="font-size: 20px;" align="center">
@@ -25,7 +25,7 @@
 
 ## <a name="aboutme">About me</a>
 
-I am an aspiring Full-stack software developer with a focus on JavaScript and React. My background is in architecture having worked in practice for the last six years. I was introduced to programming during my time in university, where I was able to test generative building designs through scripts in architectural software. This piqued my interest as I saw the potential in computational driven design based on real data, mitigating human error in design.
+I am an aspiring software developer with a focus on JavaScript and React. My background is in architecture having worked in practice for the last five years. I was introduced to programming during my time in university, where I was able to test generative building designs through scripts in architectural software. This piqued my interest as I saw the potential in computational driven design based on real data, mitigating human error in design.
 
 I continued to explore and develop new skills, most importantly starting to learn to build simple programs with JavaScript as my first language. I found the technical challenge and problem solving involved in developing programs fulfilling and wanted to learn how to build more advanced projects. This led me to [Makers Academy], a highly selective full stack software development program.
 
