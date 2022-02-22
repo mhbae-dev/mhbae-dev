@@ -15,7 +15,7 @@
  <p>Click on the links below to view my portfolio and resume</p>
  <h3 style="font-size: 20px;" align="center">
     <a href="https://portfolio-myoung.vercel.app/">Portfolio</a> | 
-    <a href="#">Resume</a> 
+    <a href="https://portfolio-myoung.vercel.app/static/media/Myoung_CV.ba791f47e8bdd70491a6.pdf">Resume</a> 
 </h3>
 
 
