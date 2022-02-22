@@ -140,7 +140,7 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 ## <a name="contact">Contact me</a>
 
-- Please feel free to reach out about **React, Ruby, cool restaurants & job opportunities!**
+- Please feel free to reach out about **React, JavaScript, cool restaurants & job opportunities!**
 - **Twitter**: [@mhbae-dev]
 - **LinkedIn**: [myoung-bae]
 
