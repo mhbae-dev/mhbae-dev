@@ -84,7 +84,8 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 - Fully funded scholarship candidate
 - Data science course using Python and SQL
 - Manipulated data sets to prepare them for analysis and visualization.
-- Acted as a Student Leader during the course
+- As a student leader, I collaborated with the course leaders to assist and lead fellow cohort members making sure that everyone was
+able to understand and follow the course content.
 
 #### [University of Westminster](https://www.westminster.ac.uk/architecture-interiors-and-urban-design-courses/2022-23/september/part-time-evening-only/architecture-postgraduate-diploma-professional-practice-riba-part-iii), London | **Postgraduate Diploma Professional Practice in Architecture RIBA/ARB PART 3** | September 2019 - September 2020
 
@@ -112,7 +113,9 @@ For more projects, please see my [GitHub repository list](https://github.com/mhb
 
 #### IID Architects | **Architect** | February 2018 - July 2021
 
-- Gained experience managing large scale construction projects and teams working as Principle architect and contract administrator.
+- Managed and led multi-disciplinary design team throughout development and contract document phases.
+- Implemented the use of BIM software to develop high-quality technical drawings and visualisations.
+- Chaired team meetings to resolve technical and project issues, coordinate with team members and review project schedules.
 - Main point of contact for client, contractor and various consultants.
 - Ensured that projects ran to program and budget.
 
