@@ -92,13 +92,13 @@ able to understand and follow the course content.
 - Gained qualifications to register as a fully qualified Architect having met all the requirements set by the ARB and RIBA.
 - Graduated wih Merit
 
-#### [Welsh School of Architecture](https://www.cardiff.ac.uk/architecture), Cardiff | **Master of Architecture (MArch) RIBA/ARB PART 2** | September 2015 - June 2018
+#### [Cardiff University](https://www.cardiff.ac.uk/architecture), Cardiff | **Master of Architecture (MArch) RIBA/ARB PART 2** | September 2015 - June 2018
 
 - Visiting student at the University of Basel and ETH Zurich to study computational design methods and robotics in construction.
 - First cohort to undertake the Computational Methods in Architecture course.
 - Undertook a final masters thesis on a proposal for a timber high rise building in Cardiff using computational design methods, alongside a masters dissertation on Naturally ventilated high rise buildings in an increasingly heated urban environment.
 
-#### [Welsh School of Architecture](https://www.cardiff.ac.uk/architecture), Cardiff | **Bachelor of Architecture (BSc) RIBA/ARB PART 1** | September 2012 - June 2015
+#### [Cardiff University](https://www.cardiff.ac.uk/architecture), Cardiff | **Bachelor of Architecture (BSc) RIBA/ARB PART 1** | September 2012 - June 2015
 
 - Explored fluid freeform shell designs using Grasshopper(visual programming language) in Rhinoceros 3D for my final year project. The fluid form was generated depending on spatial requirements of the internal spaces. Developed design iterations through computational design methods.
 - Programmed a [3D Voronoi shell generator] using MaxScript in 3DsMax
