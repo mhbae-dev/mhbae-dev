@@ -10,7 +10,7 @@
 
 <h1>Myoung Bae</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=800&center=true&lines=Software+Developer+with+a+focus+on;Software+Craftmanship+TDD+Extreme+Programing;Constantly+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=800&center=true&lines=Software+Developer+with+a+passion+for:;Software+Craftmanship,+TDD,+Extreme+Programing;Constantly+learning+new+things!)](https://git.io/typing-svg)
 
  <p>Click on the links below to view my portfolio and resume</p>
  <h3 style="font-size: 20px;" align="center">
