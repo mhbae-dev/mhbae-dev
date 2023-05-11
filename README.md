@@ -50,10 +50,7 @@ I am passionate about tackling new challenges and thrive on continuous learning.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://testing-library.com/react/" target="_blank">
-    <img src="https://testing-library.com/img/octopus-64x64.png" alt="React Testing Library" width="40" height="40"/>
-  </a>
-  <a href="https://mswjs.io/" target="_blank">
-    <img src="https://mswjs.io/img/favicon-32x32.png" alt="Mock Service Worker" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="React Testing Library" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
