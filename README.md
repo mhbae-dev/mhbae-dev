@@ -10,7 +10,7 @@
 
 <h1>Myoung Bae</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=800&center=true&lines=Full+Stack+Software+Developer+with+a+focus+on+design;ARB+Architect+and+designer+with+5%2B+years+experience;Constantly+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=800&center=true&lines=Software+Developer+with+a+focus+on;Software+Craftmanship+TDD+Extreme+Programing;Constantly+learning+new+things!)](https://git.io/typing-svg)
 
  <p>Click on the links below to view my portfolio and resume</p>
  <h3 style="font-size: 20px;" align="center">
@@ -33,7 +33,7 @@ I am passionate about tackling new challenges and thrive on continuous learning.
 
 **Programming Languages**: TypeScript | Golang | Java\
 **Frameworks & Libraries**: React | TailwindCSS | Node.js\
-**Hosting**: Heroku, Vercel, Netlify\
+**Hosting**: Heroku | Vercel | Netlify\
 **Testing**: React Testing Library | Mock Service Worker | Testify | Jest | JUnit\
 **Tools/Other**: Git | GitHub | Docker | Terraform | AWS | Figma | SQL (PostgreSQL, TablePlus) | GraphQL
 
@@ -45,22 +45,12 @@ I am passionate about tackling new challenges and thrive on continuous learning.
 
 ## <a name="Projects">Highlighted Projects</a>
 
-| Name                                                                    | Description                                                                                                                                                                                                                                                                       | Tech/tools                                                               | Demo                                                               |
-| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |------------------------------------------------------------------------ |
-| [Sanity Blog](https://github.com/mhbae-dev/sanity-blog)                           | A fully responsive blog website using server side rendering and Sanity.io as a content management system.   | NextJS, Sanity.io, TailwindCss, Vercel, Heroku       |<img src="https://user-images.githubusercontent.com/41869496/157279603-fed819a2-dea4-49ba-86e8-50e4cb8b0651.gif" width="auto" height="">     |
-| [Heyday](https://github.com/mhbae-dev/heyday)                           | A web application to assist users organize a day to meet up taking into account the users availability and preferences. The app aims to achieve this while emphasizing privacy and ease-of-access.                                                                                | JavaScript, React, Express, Node, Jest, HTML, Sass, Vercel, Heroku       |<img src="https://user-images.githubusercontent.com/41869496/156926963-a93e71c0-44ea-4b1e-8201-d5c1fee87f05.gif" width="auto" height="">     |
-| [Acebook](https://github.com/mhbae-dev/acebook-ace)                     | A social media application implementing CRUD operations inspired by Facebook. Users can go post images and comments with the ability to edit and delete these later on. All posts and comments are tied to a specific user so they can only be edited/amended by the owner        | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, HTML, CSS, Bootstrap | <img src="https://user-images.githubusercontent.com/41869496/156927020-060be0d7-b04c-48f1-895f-e2d031c239a0.gif" width="auto" height="">    |
-| [Around the U.S.](https://github.com/mhbae-dev/web_project_4)           | This is a interactive photo gallery project that allows users to upload, remove, or like photos. Users can also update their name and title via a popup form. Modals and client-side form validation has been implemented to improve the user's experience.                       | HTML, CSS, JavaScript, BEM                                               |<img src="https://user-images.githubusercontent.com/41869496/155084112-c056aa78-6ab2-4108-bd37-0bdc9630f673.gif" width="auto" height="">     |
-| [From Portland to Portland](https://github.com/mhbae-dev/web_project_3) | A single page website project following a primary goal to make its content responsive and accessible. This project has been set up using Flexbox and CSS Grid for layout and follows responsive design principles, to ensure that it displays seamlessly across all device sizes. | HTML, CSS, BEM                                                           | <img src="https://user-images.githubusercontent.com/41869496/156927689-ecc56183-7f33-4cc0-b466-e3dbff518315.gif" width="auto" height="">    |
-| [Rock Paper Scissors Lizard Spock](https://github.com/mhbae-dev/rock-paper-scissors-lizard-spock)                                                   | This is a expansion on the classic game of Rock, Paper, Scissors. A tribute to the creators Sam Kass and Karen Bryla and The Big Bang Theory.                                                         | JavaScript, React, Express, CSS, Vercel                                  | <img src="https://user-images.githubusercontent.com/41869496/155149087-235ef65e-16e5-4b39-a37c-441624d71f72.gif" width="auto" height="">    |
-
-For more projects, please see my [GitHub repository list](https://github.com/mhbae-dev?tab=repositories).
+For projects, please see my [GitHub repository list](https://github.com/mhbae-dev?tab=repositories).
 
 #### Learning Portfolio
 
 | Name                                                                     | Description                                                                                                                                                                        | 
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [React Learning Portfolio](https://react-learning-portfolio.vercel.app/)                                            | This repository hosts a collection of React projects, exercises and programs, which make up part of my learning process to master concepts and achieve fluency in React.           |
 | [TDD Learning Portfolio](https://github.com/mhbae-dev/tdd-practice)                                            | This repository hosts a collection of exercises and programs, which make up part of my learning process to master concepts and achieve fluency in TDD.           |
 
 ## <a name="interests">Interests/Other</a>
