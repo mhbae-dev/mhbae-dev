@@ -28,7 +28,7 @@ I am a software developer with a passion for writing clean, well-tested code and
 
 ## <a name="technologies">Technologies</a>
 
-I am passionate about tackling new challenges and thrive on continuous learning. I am eager to explore new programming languages, frameworks, and tools to expand my skillset. Currently, I am proficient in the following technologies:
+I am passionate about tackling new challenges and thrive on continuous learning. I am eager to explore new programming languages, frameworks, and tools to expand my skillset. Currently, I am working with the following technologies:
 
 **Programming Languages**: TypeScript | Golang | Java\
 **Frameworks & Libraries**: React | TailwindCSS | Node.js\
