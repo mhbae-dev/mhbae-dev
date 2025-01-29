@@ -10,22 +10,18 @@
 
 <h1>Myoung Bae</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=800&center=true&lines=Software+Developer+with+a+passion+for:;Software+Craftmanship,+TDD,+Extreme+Programing;Constantly+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=800&center=true&lines=Software+Developer+with+a+passion+for:;Software+Craftmanship,+TDD;Constantly+learning+new+things!)](https://git.io/typing-svg)
 
-[About me](#aboutme) | [Technologies](#technologies) | [Interests/Other](#interests) | [Contact](#contact)
+[Technologies](#technologies) | [Interests/Other](#interests) | [Contact](#contact)
 
  </div>
-
-## <a name="aboutme">About me</a>
-
-I am a software developer with a passion for writing clean, well-tested code and a strong foundation in Extreme Programming (XP) values and Test-Driven Development (TDD). With a background in architecture, I bring a unique perspective to software development, having managed multi-disciplinary teams and delivered complex projects on time and on budget. My experience in balancing design with functionality allows me to create scalable, maintainable software solutions that meet the needs of end users. I am dedicated to staying current with emerging technologies and industry best practices, ensuring that I can deliver high-quality software products that meet the needs of end users. Whether working collaboratively or independently, I approach each project with enthusiasm, attention to detail, and a commitment to excellence.
 
 ## <a name="technologies">Technologies</a>
 
 **Programming Languages**: TypeScript | Golang | Java\
 **Frameworks & Libraries**: React | Node.js | Redis | TypeORM | Mongoose\
 **Testing**: React Testing Library | Mock Service Worker | Testify | Jest\
-**Database/Industry Tools**: Git | GitHub Actions | Docker | Terraform | AWS | Figma | PostgreSQL | GraphQL | MongoDB | DataDog | Apache Kafka\
+**Database/Industry Tools**: Git | GitHub Actions | Docker | Terraform | AWS | Figma | PostgreSQL | GraphQL | MongoDB | DataDog | Apache Kafka
 
 <br/>
 
@@ -34,9 +30,6 @@ I am a software developer with a passion for writing clean, well-tested code and
   </a>
   <a href="https://www.java.com/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
@@ -58,7 +51,7 @@ I am a software developer with a passion for writing clean, well-tested code and
 
 ## <a name="interests">Interests/Other</a>
 
-- 🥅**2025 Goals**: Contribute to Open Source projects, building personal projects
+- 🥅**2025 Goals**: Contribute to Open Source projects, building things with AI
 - 💻**Continued Learning**: I am currently learning **Japanese**
 - 🏋️**Weightlifting**: When I am not in front of a computer I will most likely be in my local gym training.
 - 🎻**Cello**: I have been playing since I was 9, although I don't have much time to practice these days. Ex-Bournemouth & Wessex Youth Orchestra First Desk Cellist.
