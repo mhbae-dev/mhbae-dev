@@ -12,8 +12,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=800&center=true&lines=Software+Developer+with+a+passion+for:;Software+Craftmanship,+TDD;Constantly+learning+new+things!)](https://git.io/typing-svg)
 
-[Technologies](#technologies) | [Interests/Other](#interests) | [Contact](#contact)
-
  </div>
 
 ## <a name="technologies">Technologies</a>
